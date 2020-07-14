@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/tapan/static/css/main.5bb59656.chunk.css",
+    "main.js": "/tapan/static/js/main.5bbceeec.chunk.js",
+    "main.js.map": "/tapan/static/js/main.5bbceeec.chunk.js.map",
+    "runtime-main.js": "/tapan/static/js/runtime-main.b4e354da.js",
+    "runtime-main.js.map": "/tapan/static/js/runtime-main.b4e354da.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/tapan/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.f690e5d6.chunk.js": "/tapan/static/js/2.f690e5d6.chunk.js",
+    "static/js/2.f690e5d6.chunk.js.map": "/tapan/static/js/2.f690e5d6.chunk.js.map",
+    "index.html": "/tapan/index.html",
+    "precache-manifest.dfabad0c9b000482cfb3b2404f521f01.js": "/tapan/precache-manifest.dfabad0c9b000482cfb3b2404f521f01.js",
+    "service-worker.js": "/tapan/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/tapan/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.5bb59656.chunk.css.map": "/tapan/static/css/main.5bb59656.chunk.css.map",
+    "static/js/2.f690e5d6.chunk.js.LICENSE.txt": "/tapan/static/js/2.f690e5d6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/tapan/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4e354da.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.f690e5d6.chunk.js",
+    "static/css/main.5bb59656.chunk.css",
+    "static/js/main.5bbceeec.chunk.js"
+  ]
+}
